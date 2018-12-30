@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("Hello world.");
         Person p = new Person();
         p.hello();
+        float weight = 60.1f;
     }
 }
